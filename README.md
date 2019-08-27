@@ -1,23 +1,28 @@
 # M-SR-CNN
 Contents
+
 Demo Contents
+
 System Requirements
+
 Installation Guide
+
 Instructions for Use
-Demo Contents
+
+1  Demo Contents
 matlab: matlab package code.
 C++: C++ package code.
 Example_data: 
             examples.
 test_data.
-System Requirements
+2 System Requirements
 
 Hardware Requirements
 The m-SR-DCNN package requires only a standard computer with enough RAM to support the operations defined by a user. The runtimes below are generated using a computer with the normal specs (4 GB RAM, 1 cores@1.7 GHz).
 Software Requirements
 The package has been tested on the following systems:
 Windows: win7
-Before setting up the package, users should install software Matlab R2016b and Microsoft visual C++ 6.0.
+3 Before setting up the package, users should install software Matlab R2016b and Microsoft visual C++ 6.0.
 Installing Matlab version R2016b on Win7
 Download version R2016b and install as following: 
 Two modes of installation:
@@ -28,13 +33,14 @@ Two modes of installation:
 2) Install Using a MathWorks Account:
 - Create a MathWorks Account.
 - Select the License You Want to Install and follow the prompts to install the software step by step.
+
 Installing Microsoft visual C++ 6.0 on Win7
 Download Microsoft Visual C++ 6.0 Software, and click AUTORUN.EXE. Follow the prompts to install the software step by step without using any serial number.
 The installation time is about 5 minutes.
 
 Package dependencies
 No Package dependencies are needed.
-Instructions for Use
+4 Instructions for Use
 Matlab code
 Matlab code for the methods employed in this package can be found in file <matlab> .
 C++ code
