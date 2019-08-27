@@ -1,15 +1,15 @@
 # M-SR-CNN
-Contents
+- Contents
 
-Demo Contents
+- Demo Contents
 
-System Requirements
+- System Requirements
 
-Installation Guide
+- Installation Guide
 
-Instructions for Use
+- Instructions for Use
 
-Demo Contents
+- Demo Contents
 
 matlab: matlab package code.
 
@@ -20,7 +20,7 @@ Example_data:
             
 test_data.
 
-System Requirements
+- System Requirements
 
 Hardware Requirements
 
@@ -29,7 +29,7 @@ Software Requirements
 The package has been tested on the following systems:
 Windows: win7
 
-Before setting up the package, users should install software Matlab R2016b and Microsoft visual C++ 6.0.
+- Before setting up the package, users should install software Matlab R2016b and Microsoft visual C++ 6.0.
 Installing Matlab version R2016b on Win7
 Download version R2016b and install as following: 
 
@@ -49,7 +49,7 @@ The installation time is about 5 minutes.
 Package dependencies
 No Package dependencies are needed.
 
-Instructions for Use
+- Instructions for Use
 
 Matlab code
 
