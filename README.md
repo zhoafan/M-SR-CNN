@@ -22,21 +22,12 @@ Installing Matlab version R2016b on Win7
 Download version R2016b and install as following: 
 Two modes of installation:
 1) standalone:
-- Install choosing the option "Use a File Installation Key" and supply the following FIK
-	09806-07443-53955-64350-21751-41297
-- To install Matlab Production Server,using this
-	40236-45817-26714-51426-39281
-- Use license_standalone.lic to activate, or make a "licenses" folder in %installdir% and copy license_standalone.lic to it,and run matlab without activation
-- after the installation finishes copy the folders to %installdir% to overwriting the originally installed files
-2) floating license (network license server):
-- Install choosing the option "Use a File Installation Key" and supply the following FIK
-	31095-30030-55416-47440-21946-54205
-- To install Matlab Production Server,using this
-	57726-51709-20682-42954-31195
-- Use license_server.lic when asked
+- Install choosing the option "Use a File Installation Key" and enter your File Installation Key.
+- Use license_standalone.lic to activate, or make a "licenses" folder in %installdir% and copy license_standalone.lic to it, and run matlab without activation.
 - after the installation finishes copy the folders to %installdir% to overwriting the originally installed files.
-The installation time is about 2 minutes.
-
+2) Install Using a MathWorks Account:
+- Create a MathWorks Account.
+- Select the License You Want to Install and follow the prompts to install the software step by step.
 Installing Microsoft visual C++ 6.0 on Win7
 Download Microsoft Visual C++ 6.0 Software, and click AUTORUN.EXE. Follow the prompts to install the software step by step without using any serial number.
 The installation time is about 5 minutes.
